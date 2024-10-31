@@ -1,6 +1,8 @@
 using TMPro;
 using UnityEngine;
 
+[RequireComponent(typeof(TextMeshPro), typeof(Counter))]
+
 public class CounterView : MonoBehaviour
 {
     private Counter _counter;

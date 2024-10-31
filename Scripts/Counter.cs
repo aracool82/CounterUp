@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using TMPro;
 using IEnumerator = System.Collections.IEnumerator;
 
 public class Counter : MonoBehaviour
